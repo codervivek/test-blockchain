@@ -1,4 +1,3 @@
-
 const hexToBinary = (s: string): string => {
     let ret: string = '';
     const lookupTable = {
