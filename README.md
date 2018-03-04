@@ -1,4 +1,4 @@
-# test-blockchain
+# Test Blockchain
 A test blockchain app to learn the basics using [this article](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54).
 This project is an attempt to provide as concise and simple implementation of a blockchain as possible.
 
